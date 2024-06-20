@@ -23,6 +23,7 @@ Codes that require a module or any other resource that is not standard in the Py
 > **To see my solutions, check out the folder** [**python-scripts**](./python-scripts/)
 
 - [001 - Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
+- [002 - Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)
 
 - ...
 
